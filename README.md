@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Oduobuk
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Projects and looking to learn more through internships 
-- 📫 officialoduobuk@gmail.com
+## DAVID ODUOBUK
 
-<!---
-Oduobuk/Oduobuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data and Analytics Engineer, with specialization in creating databases to ensure seamless data flow. I transform raw data into valuable insights to drive informed decision making.
+I create robust data pipelines, design efficient databases, and create analytics solutions to meet unique needs of businesses.
