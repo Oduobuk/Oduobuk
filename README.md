@@ -21,7 +21,7 @@
 
 I am a **high-utility engineer** operating at the convergence of **Generative AI Agent Architecture**, **Enterprise Cloud Infrastructure**, **High-Performance C++ Engineering**, and **Decentralized On-Chain Intelligence**.
 
-My specialty is architecting **end-to-end production microservices**—from prompt-injection-resistant database query engines and multi-tenant hospitality AI agents to zero-cost local model pipelines on Apple Silicon and on-chain Soulbound credential protocols.
+My specialty is architecting **end-to-end production microservices**—from prompt-injection-resistant database query engines and multi-tenant AI agents to zero-cost local model pipelines on Apple Silicon and on-chain credential protocols.
 
 ---
 
@@ -31,16 +31,16 @@ My specialty is architecting **end-to-end production microservices**—from prom
 <summary><b>1. Enterprise AI & Multi-Agent Orchestration</b></summary>
 <br>
 
-- **Multi-Agent Teams**: Designing multi-agent fleets (Sentiment, Revenue, IoT, Marketing, Kitchen) with dynamic inter-agent event buses.
-- **Enterprise NLP & SQL Defense**: Hardened NL-to-SQL engines featuring mandatory post-LLM filter injection (`client_id`, `site_id`), RBAC, and keyword security blocking across Oracle, PostgreSQL, and MS SQL Server.
-- **Privacy & Security**: Differential Privacy Vaults for GDPR-compliant multi-tenant cross-brand data exchange.
+- **Multi-Agent Systems**: Designing specialized agent fleets (Sentiment, Revenue, IoT, Marketing, Operations) with dynamic inter-agent event buses.
+- **Enterprise NLP & SQL Defense**: Hardened NL-to-SQL engines featuring mandatory post-LLM filter injection, RBAC, and keyword security blocking across Oracle, PostgreSQL, and MS SQL Server.
+- **Privacy & Security**: Differential Privacy frameworks for GDPR-compliant multi-tenant data exchange.
 </details>
 
 <details open>
 <summary><b>2. Decentralized Web3 Protocols & On-Chain Intelligence</b></summary>
 <br>
 
-- **Hedera Native Protocols**: Architecting Soulbound Passport (SBT) networks (Token `0.0.8265701`), Hedera Consensus Service (HCS) immutable progress logging, and dynamic graduation smart contracts.
+- **Hedera Native Protocols**: Architecting Soulbound Passport (SBT) networks, Hedera Consensus Service (HCS) immutable progress logging, and dynamic smart contracts.
 - **EVM Cross-Chain Readiness**: Smart contract development in Solidity with cross-chain bridging strategies (Polygon Amoy / Ethereum EVM).
 </details>
 
@@ -48,33 +48,17 @@ My specialty is architecting **end-to-end production microservices**—from prom
 <summary><b>3. High-Performance Compute & Local MLX Inference</b></summary>
 <br>
 
-- **High-Performance C++ Engineering**: Low-latency C++ compute engines (`PET-PRO`) for complex signal processing and medical/biomedical data analytics.
+- **High-Performance C++ Engineering**: Low-latency C++ compute engines and algorithm suites for complex signal processing and analytics.
 - **100% On-Device AI Pipelines**: Zero-overhead local multimodal pipelines (MLX-VLM, Whisper-MLX, Ollama, Kokoro ONNX TTS, SDXL-Turbo) running natively on Apple Silicon without API dependencies.
 </details>
 
 <details open>
-<summary><b>4. Autonomous GTM & Cloud DevOps</b></summary>
+<summary><b>4. Autonomous Systems & Cloud DevOps</b></summary>
 <br>
 
-- **Go-To-Market Automation**: Autonomous AI engines (`omanoidz-gtm-engine`) driving real-time executive reporting, lead intelligence, and market synthesis.
+- **Automated Intelligence Pipelines**: Autonomous AI engines driving real-time executive reporting, data synthesis, and workflow automation.
 - **Production Infrastructure**: Containerization (Docker), API microservices (FastAPI), multi-database routing, and cloud-native CI/CD automation.
 </details>
-
----
-
-### 💼 Featured Production Systems & Private Enterprise Contributions
-
-> Below is a summary of major production systems and private microservices architected and maintained across my ecosystem:
-
-| System / Project | Domain & Focus | Key Architecture & Achievements | Impact & Performance |
-| :--- | :--- | :--- | :--- |
-| 🤖 **GuestPulse AI** | Multi-Tenant Hospitality AI | **Elite 7 AI Agent Team** (Claude 3.5 ABSA, ElevenLabs Voice, IoT Controller, Differential Privacy Vault). | Dynamic room prep & GDPR-compliant cross-brand intelligence. |
-| 🛡️ **Datalogistix ChatDB** | Enterprise Security & NL-to-SQL | Multi-database routing (Oracle, Postgres, MSSQL) + **v1.1 Security Rules Engine** (RBAC, keyword guard, mandatory filter injection). | 100% compliance with enterprise data isolation standards. |
-| 📜 **Global Mastery Protocol** | Web3 EdTech & Credentials | Hedera Hashgraph Soulbound Passports (`0.0.8265701`), HCS consensus topic logs (`0.0.8266253`), & dynamic EVM contracts. | Immutable on-chain verification for student passports. |
-| 🚀 **Omanoidz GTM Engine** | Autonomous Growth & Analytics | AI-driven market intelligence engine, automated executive summary reporting pipelines, and lead scoring. | Real-time automated executive GTM insights. |
-| ⚡ **PET-PRO** | High-Performance Compute | Optimized C++ algorithms for biomedical signal & Positron Emission Tomography compute operations. | Sub-millisecond compute execution for heavy data streams. |
-| 🎬 **Local Multimodal Media Suite** | Zero-Cost Local AI Stack | Integrated MLX-VLM, Whisper-MLX, Ollama (Qwen2.5/Phi-3), Kokoro TTS, and MoviePy 2.x on Apple M-series hardware. | 100% local content generation at $0 cloud API cost. |
-| 📰 **AI News Aggregator** | Autonomous Data Pipeline | Multi-source web scraping, local LLM summarization, SQLite storage, and automated WhatsApp/Email dispatch. | Continuous autonomous news curation pipeline. |
 
 ---
 
@@ -91,19 +75,6 @@ My specialty is architecting **end-to-end production microservices**—from prom
 | **Databases & Storage** | `PostgreSQL` `Oracle DB` `MS SQL Server` `SQLite` `Vector DBs` `Hedera HCS` |
 
 </div>
-
----
-
-### 📊 GitHub Activity & Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oduobuk&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Oduobuk's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oduobuk&layout=compact&theme=radical&hide=html,css,scss" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oduobuk&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
